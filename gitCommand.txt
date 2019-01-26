@@ -1,4 +1,17 @@
 ssh-keygen -t rsa -b 4096 -C "deepakkumardok@gmail.com"
 Copy the output of cat C:\Users\deepak\.ssh\id_rsa.pub
 Paste the above copied outpur into your Github profile -> Settings -> SSH and GPG Keys -> Add new SSH key
-git clone git@github.com:deepakkumardok/Nodejs.git
+  git clone git@github.com:deepakkumardok/Nodejs.git
+  git status
+  git branch
+  git checkout -b dev
+  git pull origin master
+  git diff gitCommand.txt
+  git add gitCommand.txt
+  git commit -m "GitCommands"
+  git push origin dev
+
+  
+
+
+
