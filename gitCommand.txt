@@ -11,7 +11,7 @@ Paste the above copied outpur into your Github profile -> Settings -> SSH and GP
   git commit -m "GitCommands"
   git push origin dev
 
-  
-
-
-
+$ git remote add origin https://github.com/deepakkumardok/angular
+# Sets the new remote
+git remote -v
+# Verifies the new remote URL

@@ -1,0 +1,8 @@
+node commands:
+node -v
+npm -v
+
+node js written in c++
+v8 engine of chrome is inside nodejs, which is also written in c++
+v8 engine convert javascript to machine language
+(js to c++ to assembly language to machine language)
