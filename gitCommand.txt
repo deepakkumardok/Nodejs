@@ -15,3 +15,15 @@ $ git remote add origin https://github.com/deepakkumardok/angular
 # Sets the new remote
 git remote -v
 # Verifies the new remote URL
+
+
+…or create a new repository on the command line
+echo "# Android" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/deepakkumardok/Android.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin https://github.com/deepakkumardok/Android.git
+git push -u origin master
